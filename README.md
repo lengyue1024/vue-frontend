@@ -1,29 +1,9 @@
-# vuetest
+# vue-frontend
+> vue写的前端功能页面
 
-## Project setup
-```
-npm install
-```
+## 后端地址
+<https://github.com/lengyue1024/springboot-backend>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- [x] 本项目为前后端分离架构，面向对象为初学者，仅仅用于测试和学习
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+:octocat: 未完待续...
